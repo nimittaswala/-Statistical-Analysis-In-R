@@ -1,12 +1,12 @@
-🎓 Graduate Admissions Prediction using R
-📌 Project Overview
+** Graduate Admissions Prediction using R**
+ **Project Overview**
 
 This project applies statistical modeling and data analysis in RStudio to predict graduate admission probabilities based on student profile data.
 The dataset includes features such as GRE, TOEFL, CGPA, SOP, LOR, University Rating, and Research Experience, which are commonly evaluated in graduate school applications.
 
 The goal was to evaluate the relative importance of these factors, build predictive models, and generate actionable insights that could help both prospective students and admission committees make better decisions.
 
-🛠️ Tools & Technologies
+**Tools & Technologies**
 
 R, RStudio
 
@@ -14,7 +14,7 @@ Libraries: ggplot2, dplyr, corrplot, car
 
 Techniques: Exploratory Data Analysis (EDA), Correlation Analysis, Linear Regression, Logistic Regression, ANOVA, Interaction Modeling, Model Diagnostics
 
-📊 Key Steps & Methods
+**Key Steps & Methods**
 
 Data Exploration & Visualization: Generated descriptive statistics, histograms, scatterplots, and correlation matrices to examine data distributions and relationships.
 
@@ -26,7 +26,7 @@ Logistic Regression: Modeled the likelihood of research experience (binary outco
 
 Model Diagnostics: Conducted residual analysis, multicollinearity checks (VIF), and evaluated performance using Adjusted R².
 
-✅ Results & Insights
+**Results & Insights**
 
 Final model achieved an Adjusted R² of 82.11%, showing strong predictive accuracy.
 
@@ -36,7 +36,4 @@ Research experience and University Rating significantly boosted admission chance
 
 Interaction effects showed that the impact of GRE scores varied depending on CGPA and SOP quality.
 
-🚀 Impact
 
-This project demonstrates how statistical modeling and visualization can be applied to admission datasets to extract valuable insights.
-It provides a data-driven framework for applicants to assess their chances and for admission committees to make evidence-based decisions.
