@@ -1,4 +1,4 @@
-** Graduate Admissions Prediction using R**
+
  **Project Overview**
 
 This project applies statistical modeling and data analysis in RStudio to predict graduate admission probabilities based on student profile data.
